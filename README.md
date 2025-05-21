@@ -8,4 +8,6 @@
 Improve accessibility (alt text, color contrast, keyboard navigation)
 Reduce JavaScript bundle size through code splitting and lazy loading
 
+![Test Results Screenshot](test_results.png)
+
 
